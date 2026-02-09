@@ -56,7 +56,7 @@
 
 <div align="center">
 
-### Languages & Software Tools
+### Programming Languages
 
 <table border="0" style="border-collapse: collapse; border: none;">
 <tr>
@@ -83,20 +83,6 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="64" height="64" alt="Octave" />
-  </a>
-  <br />
-  <strong>Octave</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/MATLAB-Logo.png?raw=true" width="64" height="64" alt="MATLAB" />
-  </a>
-  <br />
-  <strong>MATLAB</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
     <img src="https://cdn.simpleicons.org/r/276DC3" width="64" height="64" alt="R" />
   </a>
   <br />
@@ -109,8 +95,6 @@
   <br />
   <strong>Assembly</strong>
 </td>
-</tr>
-<tr>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" alt="Java" />
@@ -118,6 +102,8 @@
   <br />
   <strong>Java</strong>
 </td>
+</tr>
+<tr>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="64" height="64" alt="Bash" />
@@ -163,10 +149,24 @@
 </tr>
 </table>
 
-### PCB Design, Simulation & RF / SDR Tools
+### Engineering Software & RF / SDR Tools
 
 <table border="0" style="border-collapse: collapse; border: none;">
 <tr>
+<td align="center" width="160">
+  <a href="#">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/MATLAB-Logo.png?raw=true" width="100" height="100" alt="MATLAB" />
+  </a>
+  <br />
+  <strong>MATLAB</strong>
+</td>
+<td align="center" width="160">
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="100" height="100" alt="Octave" />
+  </a>
+  <br />
+  <strong>Octave</strong>
+</td>
 <td align="center" width="160">
   <a href="#">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments-labview-seeklogo.png?raw=true" width="100" height="100" alt="LabVIEW" />
@@ -186,6 +186,8 @@
     <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="120" height="120" alt="OrCAD" />
   </a>
 </td>
+</tr>
+<tr>
 <td align="center" width="160">
   <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="120" height="120" alt="KiCad" />
@@ -196,8 +198,6 @@
     <img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="120" height="120" alt="Altium Designer" />
   </a>
 </td>
-</tr>
-<tr>
 <td align="center" width="160">
   <a href="#">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="120" height="120" alt="GNU Radio" />
@@ -217,6 +217,8 @@
   <br />
   <strong>Ansys HFSS</strong>
 </td>
+</tr>
+<tr>
 <td align="center" width="160">
   <a href="#">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/CST.png?raw=true" width="100" height="100" alt="CST Studio" />
@@ -230,6 +232,12 @@
   </a>
   <br />
   <strong>Antenna Magus</strong>
+</td>
+<td align="center" width="160">
+</td>
+<td align="center" width="160">
+</td>
+<td align="center" width="160">
 </td>
 </tr>
 </table>
