@@ -58,181 +58,35 @@
 
 ### Programming Languages
 
-<table border="0" style="border-collapse: collapse; border: none;">
-<tr>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" height="64" alt="C++" />
-  </a>
-  <br />
-  <strong>C++</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/icons8-c-programming.svg?raw=true" width="64" height="64" alt="C" />
-  </a>
-  <br />
-  <strong>C</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" alt="Python" />
-  </a>
-  <br />
-  <strong>Python</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.simpleicons.org/r/276DC3" width="64" height="64" alt="R" />
-  </a>
-  <br />
-  <strong>R</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.simpleicons.org/assemblyscript/8B5CF6" width="64" height="64" alt="Assembly" />
-  </a>
-  <br />
-  <strong>Assembly</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" alt="Java" />
-  </a>
-  <br />
-  <strong>Java</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="64" height="64" alt="Bash" />
-  </a>
-  <br />
-  <strong>Bash</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="64" height="64" alt="SQL" />
-  </a>
-  <br />
-  <strong>SQL</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="64" height="64" alt="HTML5" />
-  </a>
-  <br />
-  <strong>HTML5</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="64" height="64" alt="CSS3" />
-  </a>
-  <br />
-  <strong>CSS3</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript" />
-  </a>
-  <br />
-  <strong>JavaScript</strong>
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.simpleicons.org/jirasoftware/0052CC" width="64" height="64" alt="Jira" />
-  </a>
-  <br />
-  <strong>Jira</strong>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,r,java,bash&theme=dark&perline=6" alt="Programming Languages" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,js&theme=dark&perline=6" alt="Web & Database" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jirasoftware/0052CC" width="48" height="48" alt="Jira" />
+</p>
 
 ### Engineering Software & RF / SDR Tools
 
-<table border="0" style="border-collapse: collapse; border: none;">
-<tr>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="120" height="120" alt="Altium Designer" />
-  </a>
-</td>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="120" height="120" alt="KiCad" />
-  </a>
-</td>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="120" height="120" alt="OrCAD" />
-  </a>
-</td>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/ADS.png?raw=true" width="100" height="100" alt="ADS" />
-  </a>
-  <br />
-  <strong>ADS</strong>
-</td>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments-labview-seeklogo.png?raw=true" width="100" height="100" alt="LabVIEW" />
-  </a>
-  <br />
-  <strong>LabVIEW</strong>
-</td>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments.png?raw=true" width="100" height="100" alt="NI" />
-  </a>
-  <br />
-  <strong>NI</strong>
-</td>
-</tr>
-<tr>
-</td>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/MATLAB-Logo.png?raw=true" width="100" height="100" alt="MATLAB" />
-  </a>
-  <br />
-  <strong>MATLAB</strong>
-</td>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="100" height="100" alt="Octave" />
-  </a>
-  <br />
-  <strong>Octave</strong>
-</td>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="120" height="120" alt="GNU Radio" />
-  </a>
-</td>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/ansys-seeklogo.png?raw=true" width="100" height="100" alt="HFSS" />
-  </a>
-  <br />
-  <strong>Ansys HFSS</strong>
-</td>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/CST.png?raw=true" width="100" height="100" alt="CST Studio" />
-  </a>
-  <br />
-  <strong>CST</strong>
-</td>
-<td align="center" width="160">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/Antenna-Magus.png?raw=true" width="100" height="100" alt="Antenna Magus" />
-  </a>
-  <br />
-  <strong>Antenna Magus</strong>
-</tr>
-</table>
+<p align="center">
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="80" height="80" alt="Altium Designer" title="Altium Designer"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="80" height="80" alt="KiCad" title="KiCad"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="80" height="80" alt="OrCAD" title="OrCAD"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/ADS.png?raw=true" width="70" height="70" alt="ADS" title="Keysight ADS"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments-labview-seeklogo.png?raw=true" width="70" height="70" alt="LabVIEW" title="LabVIEW"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments.png?raw=true" width="70" height="70" alt="NI" title="National Instruments"/></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/ansys-seeklogo.png?raw=true" width="70" height="70" alt="Ansys HFSS" title="Ansys HFSS"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/CST.png?raw=true" width="70" height="70" alt="CST Studio" title="CST Studio Suite"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Antenna-Magus.png?raw=true" width="70" height="70" alt="Antenna Magus" title="Antenna Magus"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/MATLAB-Logo.png?raw=true" width="70" height="70" alt="MATLAB" title="MATLAB"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="70" height="70" alt="Octave" title="GNU Octave"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="80" height="80" alt="GNU Radio" title="GNU Radio"/></a>
+</p>
 
 </div>
 
