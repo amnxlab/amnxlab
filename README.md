@@ -165,18 +165,82 @@
 
 ### PCB Design, Simulation & RF / SDR Tools
 
-<p align="center">
-  <img src="https://www.svgrepo.com/show/373791/labview.svg" width="80" alt="LabVIEW" />
-  <img src="https://www.svgrepo.com/show/354130/ni.svg" width="80" alt="NI MultiSim" />
-  <img src="https://www.svgrepo.com/show/354009/gnuradio.svg" width="80" alt="GNU Radio" />
-  <img src="https://cdn.simpleicons.org/kicad/314CB0" width="80" alt="KiCad" />
-  <img src="https://www.svgrepo.com/show/373430/altium.svg" width="80" alt="Altium Designer" />
-  <img src="https://www.svgrepo.com/show/330831/cadence.svg" width="80" alt="OrCAD" />
-  <img src="https://www.svgrepo.com/show/443548/brand-keysight.svg" width="80" alt="ADS" />
-  <img src="https://cdn.simpleicons.org/ansys/FFB71B" width="80" alt="HFSS" />
-  <img src="https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_CST.png" width="80" alt="CST Studio" />
-  <img src="https://avatars.githubusercontent.com/u/7455608?s=200&v=4" width="80" alt="OpenEMS" />
-</p>
+<table border="0" style="border-collapse: collapse; border: none;">
+<tr>
+<td align="center" width="120">
+  <a href="#">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments-labview-seeklogo.png?raw=true" width="64" height="64" alt="LabVIEW" />
+  </a>
+  <br />
+  <sub>LabVIEW</sub>
+</td>
+<td align="center" width="120">
+  <a href="#">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments.png?raw=true" width="64" height="64" alt="NI MultiSim" />
+  </a>
+  <br />
+  <sub>NI MultiSim</sub>
+</td>
+<td align="center" width="120">
+  <a href="#">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="64" height="64" alt="GNU Radio" />
+  </a>
+  <br />
+  <sub>GNU Radio</sub>
+</td>
+<td align="center" width="120">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="64" height="64" alt="KiCad" />
+  </a>
+  <br />
+  <sub>KiCad</sub>
+</td>
+<td align="center" width="120">
+  <a href="#">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="64" height="64" alt="Altium Designer" />
+  </a>
+  <br />
+  <sub>Altium Designer</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+  <a href="#">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="64" height="64" alt="OrCAD" />
+  </a>
+  <br />
+  <sub>OrCAD</sub>
+</td>
+<td align="center" width="120">
+  <a href="#">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/ADS.png?raw=true" width="64" height="64" alt="ADS" />
+  </a>
+  <br />
+  <sub>ADS</sub>
+</td>
+<td align="center" width="120">
+  <a href="#">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/ansys-seeklogo.png?raw=true" width="64" height="64" alt="HFSS" />
+  </a>
+  <br />
+  <sub>HFSS</sub>
+</td>
+<td align="center" width="120">
+  <a href="#">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/CST.png?raw=true" width="64" height="64" alt="CST Studio" />
+  </a>
+  <br />
+  <sub>CST Studio</sub>
+</td>
+<td align="center" width="120">
+  <a href="#">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/Antenna-Magus.png?raw=true" width="64" height="64" alt="Antenna Magus" />
+  </a>
+  <br />
+  <sub>Antenna Magus</sub>
+</td>
+</tr>
+</table>
 
 ### Embedded Platforms
 
