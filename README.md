@@ -186,13 +186,13 @@
     <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="120" height="120" alt="OrCAD" />
   </a>
 </td>
-</tr>
-<tr>
 <td align="center" width="160">
   <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="120" height="120" alt="KiCad" />
   </a>
 </td>
+</tr>
+<tr>
 <td align="center" width="160">
   <a href="#">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="120" height="120" alt="Altium Designer" />
@@ -217,8 +217,6 @@
   <br />
   <strong>Ansys HFSS</strong>
 </td>
-</tr>
-<tr>
 <td align="center" width="160">
   <a href="#">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/CST.png?raw=true" width="100" height="100" alt="CST Studio" />
@@ -232,12 +230,6 @@
   </a>
   <br />
   <strong>Antenna Magus</strong>
-</td>
-<td align="center" width="160">
-</td>
-<td align="center" width="160">
-</td>
-<td align="center" width="160">
 </td>
 </tr>
 </table>
