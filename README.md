@@ -58,33 +58,37 @@
 
 ### Programming Languages
 
-<p align="center">
+<p align="center" style="margin: 20px 0;">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,r,java,bash&theme=dark&perline=6" alt="Programming Languages" />
 </p>
 
-<p align="center">
+<br/>
+
+<p align="center" style="margin: 20px 0;">
   <img src="https://skillicons.dev/icons?i=mysql,html,css,js&theme=dark&perline=6" alt="Web & Database" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/jirasoftware/0052CC" width="48" height="48" alt="Jira" />
 </p>
 
 ### Engineering Software & RF / SDR Tools
 
-<p align="center">
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="80" height="80" alt="Altium Designer" title="Altium Designer"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="80" height="80" alt="KiCad" title="KiCad"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="80" height="80" alt="OrCAD" title="OrCAD"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/ADS.png?raw=true" width="70" height="70" alt="ADS" title="Keysight ADS"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments-labview-seeklogo.png?raw=true" width="70" height="70" alt="LabVIEW" title="LabVIEW"/></a>&nbsp;&nbsp;&nbsp;
+<p align="center" style="margin: 20px 0;">
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="80" height="80" alt="Altium Designer" title="Altium Designer"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="80" height="80" alt="KiCad" title="KiCad"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="80" height="80" alt="OrCAD" title="OrCAD"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/ADS.png?raw=true" width="70" height="70" alt="ADS" title="Keysight ADS"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments-labview-seeklogo.png?raw=true" width="70" height="70" alt="LabVIEW" title="LabVIEW"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments.png?raw=true" width="70" height="70" alt="NI" title="National Instruments"/></a>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/ansys-seeklogo.png?raw=true" width="70" height="70" alt="Ansys HFSS" title="Ansys HFSS"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/CST.png?raw=true" width="70" height="70" alt="CST Studio" title="CST Studio Suite"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Antenna-Magus.png?raw=true" width="70" height="70" alt="Antenna Magus" title="Antenna Magus"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/MATLAB-Logo.png?raw=true" width="70" height="70" alt="MATLAB" title="MATLAB"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="70" height="70" alt="Octave" title="GNU Octave"/></a>&nbsp;&nbsp;&nbsp;
+<br/>
+
+<p align="center" style="margin: 20px 0;">
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/ansys-seeklogo.png?raw=true" width="70" height="70" alt="Ansys HFSS" title="Ansys HFSS"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/CST.png?raw=true" width="70" height="70" alt="CST Studio" title="CST Studio Suite"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Antenna-Magus.png?raw=true" width="70" height="70" alt="Antenna Magus" title="Antenna Magus"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/MATLAB-Logo.png?raw=true" width="70" height="70" alt="MATLAB" title="MATLAB"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="70" height="70" alt="Octave" title="GNU Octave"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="80" height="80" alt="GNU Radio" title="GNU Radio"/></a>
 </p>
 
