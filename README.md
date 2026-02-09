@@ -90,7 +90,7 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/MATLAB-Logo.png?raw=true" width="64" height="64" alt="MATLAB" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
@@ -166,16 +166,16 @@
 ### PCB Design, Simulation & RF / SDR Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" />
-  <img src="https://img.shields.io/badge/NI_MultiSim-57B685?style=for-the-badge" alt="NI MultiSim" />
-  <img src="https://img.shields.io/badge/GNU_Radio-149652?style=for-the-badge" alt="GNU Radio" />
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
-  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge" alt="Altium Designer" />
-  <img src="https://img.shields.io/badge/OrCAD-E8112D?style=for-the-badge" alt="OrCAD" />
-  <img src="https://img.shields.io/badge/ADS-EE3524?style=for-the-badge" alt="ADS" />
-  <img src="https://img.shields.io/badge/ANSYS_HFSS-FFB71B?style=for-the-badge" alt="HFSS" />
-  <img src="https://img.shields.io/badge/CST_Studio-005386?style=for-the-badge" alt="CST Studio" />
-  <img src="https://img.shields.io/badge/OpenEMS-0080FF?style=for-the-badge" alt="OpenEMS" />
+  <img src="https://cdn.simpleicons.org/labview/FFDB00" width="80" alt="LabVIEW" />
+  <img src="https://cdn.simpleicons.org/ni/57B685" width="80" alt="NI MultiSim" />
+  <img src="https://cdn.simpleicons.org/gnuradio/149652" width="80" alt="GNU Radio" />
+  <img src="https://cdn.simpleicons.org/kicad/314CB0" width="80" alt="KiCad" />
+  <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="80" alt="Altium Designer" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Cadence_Design_Systems_logo.svg" width="80" alt="OrCAD" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Keysight_Technologies_logo.svg" width="80" alt="ADS" />
+  <img src="https://cdn.simpleicons.org/ansys/FFB71B" width="80" alt="HFSS" />
+  <img src="https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_CST.png" width="80" alt="CST Studio" />
+  <img src="https://avatars.githubusercontent.com/u/7455608?s=200&v=4" width="80" alt="OpenEMS" />
 </p>
 
 ### Embedded Platforms
