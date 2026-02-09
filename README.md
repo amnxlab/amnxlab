@@ -183,7 +183,7 @@
 </td>
 <td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="120" height="120" alt="GNU Radio" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="120" height="120" alt="OrCAD" />
   </a>
 </td>
 <td align="center" width="160">
@@ -200,7 +200,7 @@
 <tr>
 <td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="120" height="120" alt="OrCAD" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="120" height="120" alt="GNU Radio" />
   </a>
 </td>
 <td align="center" width="160">
