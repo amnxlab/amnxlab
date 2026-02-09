@@ -166,13 +166,13 @@
 ### PCB Design, Simulation & RF / SDR Tools
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/labview/FFDB00" width="80" alt="LabVIEW" />
-  <img src="https://cdn.simpleicons.org/ni/57B685" width="80" alt="NI MultiSim" />
-  <img src="https://cdn.simpleicons.org/gnuradio/149652" width="80" alt="GNU Radio" />
+  <img src="https://www.svgrepo.com/show/373791/labview.svg" width="80" alt="LabVIEW" />
+  <img src="https://www.svgrepo.com/show/354130/ni.svg" width="80" alt="NI MultiSim" />
+  <img src="https://www.svgrepo.com/show/354009/gnuradio.svg" width="80" alt="GNU Radio" />
   <img src="https://cdn.simpleicons.org/kicad/314CB0" width="80" alt="KiCad" />
-  <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="80" alt="Altium Designer" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Cadence_Design_Systems_logo.svg" width="80" alt="OrCAD" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Keysight_Technologies_logo.svg" width="80" alt="ADS" />
+  <img src="https://www.svgrepo.com/show/373430/altium.svg" width="80" alt="Altium Designer" />
+  <img src="https://www.svgrepo.com/show/330831/cadence.svg" width="80" alt="OrCAD" />
+  <img src="https://www.svgrepo.com/show/443548/brand-keysight.svg" width="80" alt="ADS" />
   <img src="https://cdn.simpleicons.org/ansys/FFB71B" width="80" alt="HFSS" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_CST.png" width="80" alt="CST Studio" />
   <img src="https://avatars.githubusercontent.com/u/7455608?s=200&v=4" width="80" alt="OpenEMS" />
