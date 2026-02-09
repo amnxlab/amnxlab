@@ -177,25 +177,20 @@
 </td>
 <td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments.png?raw=true" width="100" height="100" alt="NI" />
-  </a>
-  <br />
-  <strong>NI</strong>
-</td>
-<td align="center" width="160">
-  <a href="#">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments-labview-seeklogo.png?raw=true" width="100" height="100" alt="LabVIEW" />
   </a>
   <br />
   <strong>LabVIEW</strong>
 </td>
-</tr>
-<tr>
 <td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="120" height="120" alt="GNU Radio" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments.png?raw=true" width="100" height="100" alt="NI" />
   </a>
+  <br />
+  <strong>NI</strong>
 </td>
+</tr>
+<tr>
 <td align="center" width="160">
   <a href="#">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/ansys-seeklogo.png?raw=true" width="100" height="100" alt="HFSS" />
@@ -230,6 +225,11 @@
   </a>
   <br />
   <strong>Octave</strong>
+</td>
+<td align="center" width="160">
+  <a href="#">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="120" height="120" alt="GNU Radio" />
+  </a>
 </td>
 </tr>
 </table>
