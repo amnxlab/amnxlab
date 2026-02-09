@@ -171,51 +171,71 @@
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" width="80" height="80" alt="LabVIEW" />
   </a>
+  <br />
+  <sub>LabVIEW</sub>
 </td>
 <td align="center" width="96">
   <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/NI_logo.svg" width="80" height="80" alt="NI MultiSim" />
   </a>
+  <br />
+  <sub>NI MultiSim</sub>
 </td>
 <td align="center" width="96">
   <a href="#">
     <img src="https://www.gnuradio.org/wp-content/uploads/2020/09/gr-logo-icon.svg" width="80" height="80" alt="GNU Radio" />
   </a>
+  <br />
+  <sub>GNU Radio</sub>
 </td>
 <td align="center" width="96">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="80" height="80" alt="KiCad" />
   </a>
+  <br />
+  <sub>KiCad</sub>
 </td>
 <td align="center" width="96">
   <a href="#">
     <img src="https://seeklogo.com/images/A/altium-logo-8C2E086C9B-seeklogo.com.png" width="80" height="80" alt="Altium Designer" />
   </a>
+  <br />
+  <sub>Altium Designer</sub>
 </td>
 <td align="center" width="96">
   <a href="#">
     <img src="https://seeklogo.com/images/C/cadence-logo-F7C3222AEA-seeklogo.com.png" width="80" height="80" alt="OrCAD" />
   </a>
+  <br />
+  <sub>OrCAD</sub>
 </td>
 <td align="center" width="96">
   <a href="#">
     <img src="https://www.keysight.com/content/dam/keysight/en/img/prd/pathwave-advanced-design-system/pathwave-advanced-design-system-ads-software-icon-256.png" width="80" height="80" alt="ADS" />
   </a>
+  <br />
+  <sub>ADS</sub>
 </td>
 <td align="center" width="96">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="80" height="80" alt="HFSS" />
   </a>
+  <br />
+  <sub>HFSS</sub>
 </td>
 <td align="center" width="96">
   <a href="#">
     <img src="https://www.3ds.com/assets/invest/images/dassault-systemes-logo.svg" width="80" height="80" alt="CST Microwave Studio" />
   </a>
+  <br />
+  <sub>CST Studio</sub>
 </td>
 <td align="center" width="96">
   <a href="#">
     <img src="https://openems.de/images/openEMS_logo.png" width="80" height="80" alt="OpenEMS" />
   </a>
+  <br />
+  <sub>OpenEMS</sub>
 </td>
 </tr>
 </table>
