@@ -183,33 +183,25 @@
 </td>
 <td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="100" height="100" alt="GNU Radio" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="120" height="120" alt="GNU Radio" />
   </a>
-  <br />
-  <strong>GNU Radio</strong>
 </td>
 <td align="center" width="160">
   <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="100" height="100" alt="KiCad" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="120" height="120" alt="KiCad" />
   </a>
-  <br />
-  <strong>KiCad</strong>
 </td>
 <td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="100" height="100" alt="Altium Designer" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="120" height="120" alt="Altium Designer" />
   </a>
-  <br />
-  <strong>Altium Designer</strong>
 </td>
 </tr>
 <tr>
 <td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="100" height="100" alt="OrCAD" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="120" height="120" alt="OrCAD" />
   </a>
-  <br />
-  <strong>OrCAD</strong>
 </td>
 <td align="center" width="160">
   <a href="#">
@@ -223,7 +215,7 @@
     <img src="https://github.com/amnxlab/amnxlab/blob/main/ansys-seeklogo.png?raw=true" width="100" height="100" alt="HFSS" />
   </a>
   <br />
-  <strong>HFSS</strong>
+  <strong>Ansys HFSS</strong>
 </td>
 <td align="center" width="160">
   <a href="#">
@@ -241,16 +233,6 @@
 </td>
 </tr>
 </table>
-
-### Embedded Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STM32-004F9F?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
-</p>
 
 </div>
 
