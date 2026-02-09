@@ -65,49 +65,49 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" height="64" alt="C++" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge" alt="C++" />
+  <strong>C++</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/icons8-c-programming.svg?raw=true" width="64" height="64" alt="C" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge" alt="C" />
+  <strong>C</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" alt="Python" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python" />
+  <strong>Python</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="64" height="64" alt="Octave" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge" alt="Octave" />
+  <strong>Octave</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/MATLAB-Logo.png?raw=true" width="64" height="64" alt="MATLAB" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
+  <strong>MATLAB</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.simpleicons.org/r/276DC3" width="64" height="64" alt="R" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge" alt="R" />
+  <strong>R</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.simpleicons.org/assemblyscript/8B5CF6" width="64" height="64" alt="Assembly" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Assembly-8B5CF6?style=for-the-badge" alt="Assembly" />
+  <strong>Assembly</strong>
 </td>
 </tr>
 <tr>
@@ -116,49 +116,49 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" alt="Java" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Java-ED1C24?style=for-the-badge" alt="Java" />
+  <strong>Java</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="64" height="64" alt="Bash" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Bash-424242?style=for-the-badge" alt="Bash Shell" />
+  <strong>Bash</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="64" height="64" alt="SQL" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" alt="SQL" />
+  <strong>SQL</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="64" height="64" alt="HTML5" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge" alt="HTML" />
+  <strong>HTML5</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="64" height="64" alt="CSS3" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge" alt="CSS" />
+  <strong>CSS3</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge" alt="JavaScript" />
+  <strong>JavaScript</strong>
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.simpleicons.org/jirasoftware/0052CC" width="64" height="64" alt="Jira" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="Jira" />
+  <strong>Jira</strong>
 </td>
 </tr>
 </table>
