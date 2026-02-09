@@ -190,7 +190,7 @@
 </td>
 <td align="center" width="120">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="64" height="64" alt="KiCad" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="64" height="64" alt="KiCad" />
   </a>
   <br />
   <sub>KiCad</sub>
