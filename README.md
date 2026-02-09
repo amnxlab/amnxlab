@@ -166,13 +166,13 @@
 ### PCB Design, Simulation & RF / SDR Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" width="64" height="64" alt="LabVIEW" title="LabVIEW" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/LabVIEW_logo.png" width="64" height="64" alt="LabVIEW" title="LabVIEW" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/NI_logo.svg" width="64" height="64" alt="NI MultiSim" title="NI MultiSim" />
   <img src="https://www.gnuradio.org/wp-content/uploads/2020/09/gr-logo-icon.svg" width="64" height="64" alt="GNU Radio" title="GNU Radio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="64" height="64" alt="KiCad" title="KiCad" />
   <img src="https://seeklogo.com/images/A/altium-logo-8C2E086C9B-seeklogo.com.png" width="64" height="64" alt="Altium Designer" title="Altium Designer" />
   <img src="https://seeklogo.com/images/C/cadence-logo-F7C3222AEA-seeklogo.com.png" width="64" height="64" alt="OrCAD" title="OrCAD" />
-  <img src="https://www.keysight.com/content/dam/keysight/en/img/prd/pathwave-advanced-design-system/pathwave-advanced-design-system-ads-software-icon-256.png" width="64" height="64" alt="ADS" title="ADS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Keysight_Technologies_logo.svg" width="64" height="64" alt="ADS" title="ADS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="64" height="64" alt="HFSS" title="HFSS" />
   <img src="https://www.3ds.com/assets/invest/images/dassault-systemes-logo.svg" width="64" height="64" alt="CST Microwave Studio" title="CST Studio" />
   <img src="https://openems.de/images/openEMS_logo.png" width="64" height="64" alt="OpenEMS" title="OpenEMS" />
