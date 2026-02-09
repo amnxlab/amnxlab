@@ -222,7 +222,7 @@
     <img src="https://github.com/amnxlab/amnxlab/blob/main/CST.png?raw=true" width="100" height="100" alt="CST Studio" />
   </a>
   <br />
-  <strong>CST Studio</strong>
+  <strong>CST Microwave Studio</strong>
 </td>
 <td align="center" width="160">
   <a href="#">
