@@ -52,7 +52,7 @@
 
 ---
 
-## 📡 Technology Stack
+## Tech Stack
 
 <div align="center">
 
@@ -70,9 +70,9 @@
   <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
 </p>
-
+<br>
 ### Engineering Software & RF / SDR Tools
-
+<br>
 <p align="center" style="margin: 20px 0;">
   <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="80" height="80" alt="Altium Designer" title="Altium Designer"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="80" height="80" alt="KiCad" title="KiCad"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
