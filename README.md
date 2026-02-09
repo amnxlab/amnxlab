@@ -59,14 +59,21 @@
 ### Programming Languages
 
 <p align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,r,java,bash&theme=dark&perline=6" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=r&theme=dark" alt="R" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" />
 </p>
 
 <br/>
 
 <p align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,js&theme=dark&perline=6" alt="Web & Database" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/jirasoftware/0052CC" width="48" height="48" alt="Jira" />
 </p>
 
