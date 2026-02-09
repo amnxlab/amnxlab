@@ -167,77 +167,77 @@
 
 <table border="0" style="border-collapse: collapse; border: none;">
 <tr>
-<td align="center" width="120">
+<td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments-labview-seeklogo.png?raw=true" width="64" height="64" alt="LabVIEW" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments-labview-seeklogo.png?raw=true" width="100" height="100" alt="LabVIEW" />
   </a>
   <br />
-  <sub>LabVIEW</sub>
+  <strong>LabVIEW</strong>
 </td>
-<td align="center" width="120">
+<td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments.png?raw=true" width="64" height="64" alt="NI MultiSim" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments.png?raw=true" width="100" height="100" alt="NI MultiSim" />
   </a>
   <br />
-  <sub>NI MultiSim</sub>
+  <strong>NI MultiSim</strong>
 </td>
-<td align="center" width="120">
+<td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="64" height="64" alt="GNU Radio" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="100" height="100" alt="GNU Radio" />
   </a>
   <br />
-  <sub>GNU Radio</sub>
+  <strong>GNU Radio</strong>
 </td>
-<td align="center" width="120">
+<td align="center" width="160">
   <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="64" height="64" alt="KiCad" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="100" height="100" alt="KiCad" />
   </a>
   <br />
-  <sub>KiCad</sub>
+  <strong>KiCad</strong>
 </td>
-<td align="center" width="120">
+<td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="64" height="64" alt="Altium Designer" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="100" height="100" alt="Altium Designer" />
   </a>
   <br />
-  <sub>Altium Designer</sub>
+  <strong>Altium Designer</strong>
 </td>
 </tr>
 <tr>
-<td align="center" width="120">
+<td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="64" height="64" alt="OrCAD" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="100" height="100" alt="OrCAD" />
   </a>
   <br />
-  <sub>OrCAD</sub>
+  <strong>OrCAD</strong>
 </td>
-<td align="center" width="120">
+<td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/ADS.png?raw=true" width="64" height="64" alt="ADS" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/ADS.png?raw=true" width="100" height="100" alt="ADS" />
   </a>
   <br />
-  <sub>ADS</sub>
+  <strong>ADS</strong>
 </td>
-<td align="center" width="120">
+<td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/ansys-seeklogo.png?raw=true" width="64" height="64" alt="HFSS" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/ansys-seeklogo.png?raw=true" width="100" height="100" alt="HFSS" />
   </a>
   <br />
-  <sub>HFSS</sub>
+  <strong>HFSS</strong>
 </td>
-<td align="center" width="120">
+<td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/CST.png?raw=true" width="64" height="64" alt="CST Studio" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/CST.png?raw=true" width="100" height="100" alt="CST Studio" />
   </a>
   <br />
-  <sub>CST Studio</sub>
+  <strong>CST Studio</strong>
 </td>
-<td align="center" width="120">
+<td align="center" width="160">
   <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/Antenna-Magus.png?raw=true" width="64" height="64" alt="Antenna Magus" />
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/Antenna-Magus.png?raw=true" width="100" height="100" alt="Antenna Magus" />
   </a>
   <br />
-  <sub>Antenna Magus</sub>
+  <strong>Antenna Magus</strong>
 </td>
 </tr>
 </table>
