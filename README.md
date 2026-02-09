@@ -166,16 +166,16 @@
 ### PCB Design, Simulation & RF / SDR Tools
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/LabVIEW_logo.png" width="64" height="64" alt="LabVIEW" title="LabVIEW" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/NI_logo.svg" width="64" height="64" alt="NI MultiSim" title="NI MultiSim" />
-  <img src="https://www.gnuradio.org/wp-content/uploads/2020/09/gr-logo-icon.svg" width="64" height="64" alt="GNU Radio" title="GNU Radio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="64" height="64" alt="KiCad" title="KiCad" />
-  <img src="https://seeklogo.com/images/A/altium-logo-8C2E086C9B-seeklogo.com.png" width="64" height="64" alt="Altium Designer" title="Altium Designer" />
-  <img src="https://seeklogo.com/images/C/cadence-logo-F7C3222AEA-seeklogo.com.png" width="64" height="64" alt="OrCAD" title="OrCAD" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Keysight_Technologies_logo.svg" width="64" height="64" alt="ADS" title="ADS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="64" height="64" alt="HFSS" title="HFSS" />
-  <img src="https://www.3ds.com/assets/invest/images/dassault-systemes-logo.svg" width="64" height="64" alt="CST Microwave Studio" title="CST Studio" />
-  <img src="https://openems.de/images/openEMS_logo.png" width="64" height="64" alt="OpenEMS" title="OpenEMS" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" />
+  <img src="https://img.shields.io/badge/NI_MultiSim-57B685?style=for-the-badge" alt="NI MultiSim" />
+  <img src="https://img.shields.io/badge/GNU_Radio-149652?style=for-the-badge" alt="GNU Radio" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge" alt="Altium Designer" />
+  <img src="https://img.shields.io/badge/OrCAD-E8112D?style=for-the-badge" alt="OrCAD" />
+  <img src="https://img.shields.io/badge/ADS-EE3524?style=for-the-badge" alt="ADS" />
+  <img src="https://img.shields.io/badge/ANSYS_HFSS-FFB71B?style=for-the-badge" alt="HFSS" />
+  <img src="https://img.shields.io/badge/CST_Studio-005386?style=for-the-badge" alt="CST Studio" />
+  <img src="https://img.shields.io/badge/OpenEMS-0080FF?style=for-the-badge" alt="OpenEMS" />
 </p>
 
 ### Embedded Platforms
