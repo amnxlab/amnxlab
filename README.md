@@ -24,7 +24,7 @@
 
 <!-- Bio Section -->
 <p align="center">
-  I'm a Hardware Design Engineer specializing in PCB Design and RF Engineering.
+ I design and build end-to-end engineering systems, from physical hardware and electronics to the software and signal processing that make them work together.
 
   <strong>Research Interests</strong>
   <ul style="list-style-position: inside; display: inline-block; text-align: left;">
