@@ -34,13 +34,14 @@
 
   <h3>Research Interests</h3>
 
-  <ul style="list-style-position: inside; text-align: left; display: inline-block;">
-    <li>RF &amp; Wireless Systems</li>
-    <li>Radar &amp; Sensing Systems</li>
-    <li>Signal Processing</li>
-    <li>Software Defined Radio</li>
-    <li>Navigation &amp; Localization</li>
-  </ul>
+<strong>Research Interests</strong>
+<ul style="list-style-position: inside; display: inline-block; text-align: left;">
+  <li>RF & Wireless Systems</li>
+  <li>Radar & Sensing Systems</li>
+  <li>Signal Processing</li>
+  <li>Software Defined Radio</li>
+  <li>Navigation & Localization</li>
+</ul>
 
 
 ---
