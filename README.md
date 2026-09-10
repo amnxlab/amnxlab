@@ -28,11 +28,7 @@ I design & build end-to-end systems, from physical hardware and electronics to t
 
   <strong>Research Interests</strong>
   <ul style="list-style-position: inside; display: inline-block; text-align: left;">
-    <li>Radar Systems</li>
-    <li>Signal Processing</li>
-    <li>Communications Networks</li>
-    <li>RF & Software Defined Radio</li>
-    <li>Navigation & Localization</li>
+<li>RF & Wireless Systems</li> <li>Radar & Sensing Systems</li> <li>Signal Processing</li> <li>Software Defined Radio</li> <li>Navigation & Localization</li>
   </ul>
 
 </p>
