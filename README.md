@@ -1,6 +1,6 @@
 <!-- RF/Signal Processing Themed Header Banner -->
 <div align="center">
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/bg.png?raw=true" alt="RF Signal Processing Banner" width="100%"/>
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/2.png?raw=true" alt="RF Signal Processing Banner" width="100%"/>
 </div>
 
 <h1 align="center">
