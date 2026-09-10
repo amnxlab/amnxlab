@@ -32,8 +32,6 @@
   </p>
 </div>
 
-  <h3>Research Interests</h3>
-
 <strong>Research Interests</strong>
 <ul style="list-style-position: inside; display: inline-block; text-align: left;">
   <li>RF & Wireless Systems</li>
