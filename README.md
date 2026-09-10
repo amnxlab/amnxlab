@@ -24,7 +24,7 @@
 
 <!-- Bio Section -->
 <p align="center">
-I design & build end-to-end systems, from physical hardware and electronics to the software and signal processing that bring them together.
+I Design & build end-to-end systems, from physical hardware and electronics to the software & signal processing.
 
   <strong>Research Interests</strong>
   <ul style="list-style-position: inside; display: inline-block; text-align: left;">
