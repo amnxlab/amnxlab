@@ -91,7 +91,8 @@
   <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="80" height="80" alt="OrCAD" title="OrCAD"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/ADS.png?raw=true" width="70" height="70" alt="ADS" title="Keysight ADS"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments-labview-seeklogo.png?raw=true" width="70" height="70" alt="LabVIEW" title="LabVIEW"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments.png?raw=true" width="70" height="70" alt="NI" title="National Instruments"/></a>
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments.png?raw=true" width="70" height="70" alt="NI" title="National Instruments"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/AutoCAD_logo.svg" width="70" height="70" alt="AutoCAD" title="AutoCAD"/></a>
 </p>
 
 <br/>
