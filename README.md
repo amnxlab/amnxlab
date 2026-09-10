@@ -36,6 +36,8 @@
 
   <br>
 
+</div>
+
   <h3>Research Interests</h3>
 
   <ul style="list-style-position: inside; text-align: left; display: inline-block;">
@@ -45,8 +47,6 @@
     <li>Software Defined Radio</li>
     <li>Navigation &amp; Localization</li>
   </ul>
-
-</div>
 
 
 ---
