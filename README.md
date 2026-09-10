@@ -22,14 +22,20 @@
 
 <div align="center">
 
-  <p>
-    <strong>
-      <font size="5">
-        I Design &amp; Build End-to-End Systems,<br>
-        from Physical Hardware &amp; Electronics to Software &amp; Signal Processing.
-      </font>
-    </strong>
-  </p>
+<p align="center">
+  <strong>
+    <font size="5">
+      I Design & Build End-to-End Systems
+    </font>
+  </strong>
+</p>
+<p align="center">
+  <strong>
+    <font size="4">
+      Hardware & Electronics&nbsp; →&nbsp; Signal Processing&nbsp; →&nbsp; Systems&nbsp; →&nbsp; Software
+    </font>
+  </strong>
+</p>
 </div>
 
 <strong>Research Interests</strong>
