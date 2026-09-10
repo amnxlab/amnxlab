@@ -21,17 +21,33 @@
 
 
 <br/>
-
 <!-- Bio Section -->
-<p align="center">
-I Design & build end-to-end systems, from physical hardware and electronics to the software & signal processing.
 
-  <strong>Research Interests</strong>
-  <ul style="list-style-position: inside; display: inline-block; text-align: left;">
-<li>RF & Wireless Systems</li> <li>Radar & Sensing Systems</li> <li>Signal Processing</li> <li>Software Defined Radio</li> <li>Navigation & Localization</li>
+<div align="center">
+
+  <p>
+    <strong>
+      <font size="5">
+        I Design &amp; Build End-to-End Systems,<br>
+        from Physical Hardware &amp; Electronics to Software &amp; Signal Processing.
+      </font>
+    </strong>
+  </p>
+
+  <br>
+
+  <h3>Research Interests</h3>
+
+  <ul style="list-style-position: inside; text-align: left; display: inline-block;">
+    <li>RF &amp; Wireless Systems</li>
+    <li>Radar &amp; Sensing Systems</li>
+    <li>Signal Processing</li>
+    <li>Software Defined Radio</li>
+    <li>Navigation &amp; Localization</li>
   </ul>
 
-</p>
+</div>
+
 
 ---
 
