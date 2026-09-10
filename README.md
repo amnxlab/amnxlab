@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  Systems Engineer | Embedded Hardware • RF • Signal Processing
+  Systems Engineer | Embedded Hardware - RF - Signal Processing
 </h3>
 
 <!-- Social Links -->
