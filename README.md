@@ -18,9 +18,6 @@
   <a href="https://www.youtube.com/@AMNxLab"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://www.amnxlab.site/"><img src="https://img.shields.io/badge/-Portfolio-0066FF?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
-
-
-<br/>
 <!-- Bio Section -->
 
 <div align="center">
@@ -33,9 +30,6 @@
       </font>
     </strong>
   </p>
-
-  <br>
-
 </div>
 
   <h3>Research Interests</h3>
