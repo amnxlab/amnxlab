@@ -43,7 +43,7 @@
 
 ---
 
-## 🏆 Certifications
+## 🏆 Badges
 
 <div align="center">
 
