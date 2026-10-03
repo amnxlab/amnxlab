@@ -1,6 +1,6 @@
 <!-- RF/Signal Processing Themed Header Banner -->
 <div align="center">
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/2.png?raw=true" alt="RF Signal Processing Banner" width="100%"/>
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/branding/header-banner.png?raw=true" alt="RF Signal Processing Banner" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -21,42 +21,66 @@
 
 <div align="center">
 
-<p align="center">
-  <strong>
-    <font size="5">
-      I Design & Build End-to-End Systems
-    </font>
-  </strong>
-</p>
-<p align="center">
-  <strong>
-    <font size="4">
-      Hardware & Electronics&nbsp; →&nbsp; Signal Processing&nbsp; →&nbsp; Systems&nbsp; →&nbsp; Software
-    </font>
-  </strong>
-</p>
+<h2>I Design &amp; Build End-to-End Systems</h2>
+
+<h4>Hardware &amp; Electronics&nbsp; →&nbsp; Signal Processing&nbsp; →&nbsp; Systems&nbsp; →&nbsp; Software</h4>
 </div>
 
+<div align="center">
+
 <strong>Research Interests</strong>
-<ul style="list-style-position: inside; display: inline-block; text-align: left;">
-  <li>RF & Wireless Systems</li>
-  <li>Radar & Sensing Systems</li>
-  <li>Signal Processing</li>
-  <li>Software Defined Radio</li>
-  <li>Navigation & Localization</li>
-</ul>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RF%20%26%20Wireless%20Systems-0D1117?style=flat" alt="RF & Wireless Systems"/>
+  <img src="https://img.shields.io/badge/Radar%20%26%20Sensing-0D1117?style=flat" alt="Radar & Sensing"/>
+  <img src="https://img.shields.io/badge/Signal%20Processing-0D1117?style=flat" alt="Signal Processing"/>
+  <img src="https://img.shields.io/badge/Software%20Defined%20Radio-0D1117?style=flat" alt="Software Defined Radio"/>
+  <img src="https://img.shields.io/badge/Navigation%20%26%20Localization-0D1117?style=flat" alt="Navigation & Localization"/>
+</p>
+
+</div>
 
 
 ---
 
-## 🏆 Badges
+## 🏆 Certifications
 
 <div align="center">
 
-| <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank" rel="noopener noreferrer"><img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" height="120"/></a> | <a href="https://badges.parchment.com/public/assertions/gzgyFlNbTQujp4shsb9MPw?identity__email=ahmedmohamed6071@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" height="120"/></a> |
-|:---:|:---:|
-| **OrCAD Certified 23.1** | **Industry Challenge Lab** |
-| *CertNexus* | *Southern Utah University* |
+<table>
+  <tr>
+    <td align="center" width="170">
+      <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/OrCAD_Capture_Badge.png?raw=true" width="110" height="110" alt="OrCAD Certified 23.1"/>
+      </a>
+      <br/>
+      <strong>OrCAD Certified 23.1</strong>
+      <br/>
+      <sub>CertNexus</sub>
+    </td>
+    <td align="center" width="170">
+      <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-emerging.png?raw=true" width="110" height="110" alt="Altium Emerging Engineer"/>
+      <br/>
+      <strong>Emerging Engineer</strong>
+      <br/>
+      <sub>Altium Education</sub>
+    </td>
+    <td align="center" width="170">
+      <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-skilled.png?raw=true" width="110" height="110" alt="Altium Skilled Engineer"/>
+      <br/>
+      <strong>Skilled Engineer</strong>
+      <br/>
+      <sub>Altium Education</sub>
+    </td>
+    <td align="center" width="170">
+      <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-advanced.png?raw=true" width="110" height="110" alt="Altium Advanced Engineer"/>
+      <br/>
+      <strong>Advanced Engineer</strong>
+      <br/>
+      <sub>Altium Education</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -86,22 +110,22 @@
 
 
 <p align="center" style="margin: 20px 0;">
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Altium.png?raw=true" width="80" height="80" alt="Altium Designer" title="Altium Designer"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Altium.png?raw=true" width="80" height="80" alt="Altium Designer" title="Altium Designer"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="80" height="80" alt="KiCad" title="KiCad"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD.png?raw=true" width="80" height="80" alt="OrCAD" title="OrCAD"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/ADS.png?raw=true" width="70" height="70" alt="ADS" title="Keysight ADS"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments-labview-seeklogo.png?raw=true" width="70" height="70" alt="LabVIEW" title="LabVIEW"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/national-instruments.png?raw=true" width="70" height="70" alt="NI" title="National Instruments"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/OrCAD.png?raw=true" width="80" height="80" alt="OrCAD" title="OrCAD"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/ADS.png?raw=true" width="70" height="70" alt="ADS" title="Keysight ADS"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/national-instruments-labview-seeklogo.png?raw=true" width="70" height="70" alt="LabVIEW" title="LabVIEW"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/national-instruments.png?raw=true" width="70" height="70" alt="NI" title="National Instruments"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.simpleicons.org/autodesk/ffffff" width="70" height="70" alt="AutoCAD" title="AutoCAD"/></a></p>
 <br/>
 
 <p align="center" style="margin: 20px 0;">
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/ansys-seeklogo.png?raw=true" width="70" height="70" alt="Ansys HFSS" title="Ansys HFSS"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/CST.png?raw=true" width="70" height="70" alt="CST Studio" title="CST Studio Suite"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Antenna-Magus.png?raw=true" width="70" height="70" alt="Antenna Magus" title="Antenna Magus"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/MATLAB-Logo.png?raw=true" width="70" height="70" alt="MATLAB" title="MATLAB"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/ansys-seeklogo.png?raw=true" width="70" height="70" alt="Ansys HFSS" title="Ansys HFSS"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/CST.png?raw=true" width="70" height="70" alt="CST Studio" title="CST Studio Suite"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Antenna-Magus.png?raw=true" width="70" height="70" alt="Antenna Magus" title="Antenna Magus"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/MATLAB-Logo.png?raw=true" width="70" height="70" alt="MATLAB" title="MATLAB"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="70" height="70" alt="Octave" title="GNU Octave"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/Gnu-Radio.png?raw=true" width="80" height="80" alt="GNU Radio" title="GNU Radio"/></a>
+  <a href="#"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Gnu-Radio.png?raw=true" width="80" height="80" alt="GNU Radio" title="GNU Radio"/></a>
 </p>
 
 </div>
@@ -142,7 +166,8 @@
   </a>
 </div>
 
----
+-->
+
 ---
 
 <div align="center">

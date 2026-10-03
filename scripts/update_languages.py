@@ -2,6 +2,9 @@ import requests
 import os
 import re
 
+# README lives at the repo root, one level above this script's directory
+README_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "README.md")
+
 # GitHub username
 USERNAME = "void0x11"
 # GitHub Token (passed from GitHub Actions)
@@ -79,7 +82,7 @@ def generate_stats_markdown(language_totals):
     return "\n".join(lines)
 
 def update_readme(stats_markdown):
-    with open("README.md", "r", encoding="utf-8") as f:
+    with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
     
     pattern = r"<!-- LANGUAGES_START -->.*?<!-- LANGUAGES_END -->"
@@ -87,7 +90,7 @@ def update_readme(stats_markdown):
     
     new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
     
-    with open("README.md", "w", encoding="utf-8") as f:
+    with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(new_content)
 
 if __name__ == "__main__":
