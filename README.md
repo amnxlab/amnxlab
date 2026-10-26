@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/RF%20%26%20Wireless%20Systems-0D1117?style=flat" alt="RF & Wireless Systems"/>
   <img src="https://img.shields.io/badge/Radar%20%26%20Sensing-0D1117?style=flat" alt="Radar & Sensing"/>
   <img src="https://img.shields.io/badge/Signal%20Processing-0D1117?style=flat" alt="Signal Processing"/>
-  <img src="https://img.shields.io/badge/Software%20Defined%20Radio-0D1117?style=flat" alt="Software Defined Radio"/>
   <img src="https://img.shields.io/badge/Navigation%20%26%20Localization-0D1117?style=flat" alt="Navigation & Localization"/>
 </p>
 
