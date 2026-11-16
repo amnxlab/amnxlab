@@ -78,6 +78,47 @@
       <br/>
       <sub>Altium Education</sub>
     </td>
+    <td align="center" width="170">
+      <a href="https://www.credly.com/badges/bcd9d9fe-fcf7-4aca-a709-5d6e5ab4e7f2" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-expert.png?raw=true" width="110" height="110" alt="Altium Expert Engineer"/>
+      </a>
+      <br/>
+      <strong>Expert Engineer</strong>
+      <br/>
+      <sub>Altium Education</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="170">
+      <a href="https://www.credly.com/badges/85f9e057-e5fb-4786-89b2-9ff4a3ca0ea9" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-pcb-essentials.png?raw=true" width="110" height="110" alt="Altium Accredited PCB Design Essentials"/>
+      </a>
+      <br/>
+      <strong>PCB Design Essentials</strong>
+      <br/>
+      <sub>Altium Accredited</sub>
+    </td>
+    <td align="center" width="170">
+      <a href="https://www.credly.com/badges/4e184d92-4714-4f20-917b-552c1fe88c5d" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-pcb-advanced.png?raw=true" width="110" height="110" alt="Altium Accredited PCB Design Advanced"/>
+      </a>
+      <br/>
+      <strong>PCB Design Advanced</strong>
+      <br/>
+      <sub>Altium Accredited</sub>
+    </td>
+    <td align="center" width="170">
+      <a href="https://www.credly.com/badges/64df2338-a867-4a31-a2a6-04bc463667ee" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-mixed-signal.png?raw=true" width="110" height="110" alt="Altium Accredited Mixed-Signal Simulation"/>
+      </a>
+      <br/>
+      <strong>Mixed-Signal Simulation</strong>
+      <br/>
+      <sub>Altium Accredited</sub>
+    </td>
   </tr>
 </table>
 
