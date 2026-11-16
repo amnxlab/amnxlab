@@ -136,68 +136,28 @@
 
 <div align="center">
 
-### Programming Languages
-
-<p align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=r&theme=dark" alt="R" title="R" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" />
-</p>
-
-### Embedded &amp; Protocols
-
-<p align="center" style="margin: 20px 0;">
-  <img src="https://cdn.simpleicons.org/stmicroelectronics/0D1117/ffffff" width="56" height="56" alt="STM32" title="STM32"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/espressif/0D1117/ffffff" width="56" height="56" alt="ESP32" title="ESP32 / Espressif"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FreeRTOS-0D1117?style=flat" alt="FreeRTOS"/>&nbsp;
-  <img src="https://img.shields.io/badge/SPI-0D1117?style=flat" alt="SPI"/>&nbsp;
-  <img src="https://img.shields.io/badge/I2C-0D1117?style=flat" alt="I2C"/>&nbsp;
-  <img src="https://img.shields.io/badge/UART-0D1117?style=flat" alt="UART"/>&nbsp;
-  <img src="https://img.shields.io/badge/Ethernet-0D1117?style=flat" alt="Ethernet"/>
-</p>
-
-### EDA &amp; PCB Design
-
-<p align="center" style="margin: 20px 0;">
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/altium-chip.png?raw=true" width="128" height="56" alt="Altium Designer" title="Altium Designer"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/kicad-chip.png?raw=true" width="121" height="56" alt="KiCad" title="KiCad"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/orcad-chip.png?raw=true" width="145" height="56" alt="OrCAD" title="OrCAD"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/autodesk/ffffff" width="56" height="56" alt="AutoCAD" title="AutoCAD"/>
-</p>
-
-### RF, EM &amp; Antenna Simulation
-
-<p align="center" style="margin: 20px 0;">
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/ansys-chip.png?raw=true" width="56" height="56" alt="Ansys HFSS" title="Ansys HFSS"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/CST.png?raw=true" width="56" height="56" alt="CST Studio" title="CST Studio Suite"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/ads-chip.png?raw=true" width="56" height="56" alt="Keysight ADS" title="Keysight ADS"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Antenna-Magus.png?raw=true" width="56" height="56" alt="Antenna Magus" title="Antenna Magus"/>
-</p>
-
-### DSP, SDR &amp; Instrumentation
-
-<p align="center" style="margin: 20px 0;">
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Gnu-Radio.png?raw=true" width="242" height="56" alt="GNU Radio" title="GNU Radio"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/MATLAB-Logo.png?raw=true" width="56" height="56" alt="MATLAB" title="MATLAB"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="56" height="56" alt="Octave" title="GNU Octave"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/national-instruments-labview-seeklogo.png?raw=true" width="55" height="56" alt="LabVIEW" title="LabVIEW"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ns--3%20Network%20Simulator-0D1117?style=flat" alt="ns-3"/>
-</p>
+<table>
+  <tr>
+    <td valign="middle"><strong>Languages</strong></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40" alt="C++" title="C++"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=c&theme=dark" height="40" alt="C" title="C"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" title="Python"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=r&theme=dark" height="40" alt="R" title="R"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" alt="Bash" title="Bash"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="MySQL" title="MySQL"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS3" title="CSS3"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" alt="JavaScript" title="JavaScript"/></td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Embedded &amp; Protocols</strong></td>
+    <td valign="middle"><img src="https://cdn.simpleicons.org/stmicroelectronics/0D1117/ffffff" height="40" width="40" alt="STM32" title="STM32"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/espressif/0D1117/ffffff" height="40" width="40" alt="ESP32" title="ESP32 / Espressif"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" alt="Linux" title="Linux"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git" title="Git"/><br/><img src="https://img.shields.io/badge/FreeRTOS-0D1117?style=flat" alt="FreeRTOS"/>&nbsp;<img src="https://img.shields.io/badge/SPI-0D1117?style=flat" alt="SPI"/>&nbsp;<img src="https://img.shields.io/badge/I2C-0D1117?style=flat" alt="I2C"/>&nbsp;<img src="https://img.shields.io/badge/UART-0D1117?style=flat" alt="UART"/>&nbsp;<img src="https://img.shields.io/badge/Ethernet-0D1117?style=flat" alt="Ethernet"/></td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>EDA &amp; PCB Design</strong></td>
+    <td valign="middle"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/altium-chip.png?raw=true" height="40" width="91" alt="Altium Designer" title="Altium Designer"/>&nbsp;&nbsp;<img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/kicad-chip.png?raw=true" height="40" width="86" alt="KiCad" title="KiCad"/>&nbsp;&nbsp;<img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/orcad-chip.png?raw=true" height="40" width="104" alt="OrCAD" title="OrCAD"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/autodesk/0D1117/ffffff" height="40" width="40" alt="AutoCAD" title="AutoCAD"/></td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>RF, EM &amp; Antenna Simulation</strong></td>
+    <td valign="middle"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/ansys-chip.png?raw=true" height="40" width="40" alt="Ansys HFSS" title="Ansys HFSS"/>&nbsp;&nbsp;<img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/CST.png?raw=true" height="40" width="40" alt="CST Studio" title="CST Studio Suite"/>&nbsp;&nbsp;<img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/ads-chip.png?raw=true" height="40" width="40" alt="Keysight ADS" title="Keysight ADS"/>&nbsp;&nbsp;<img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Antenna-Magus.png?raw=true" height="40" width="40" alt="Antenna Magus" title="Antenna Magus"/></td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>DSP, SDR &amp; Instrumentation</strong></td>
+    <td valign="middle"><img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Gnu-Radio.png?raw=true" height="40" width="173" alt="GNU Radio" title="GNU Radio"/>&nbsp;&nbsp;<img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/MATLAB-Logo.png?raw=true" height="40" width="40" alt="MATLAB" title="MATLAB"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" height="40" width="40" alt="Octave" title="GNU Octave"/>&nbsp;&nbsp;<img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/national-instruments-labview-seeklogo.png?raw=true" height="40" width="39" alt="LabVIEW" title="LabVIEW"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/ns--3-0D1117?style=flat" alt="ns-3"/></td>
+  </tr>
+</table>
 
 </div>
 
