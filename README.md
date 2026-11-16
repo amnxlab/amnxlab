@@ -49,15 +49,6 @@
 <table>
   <tr>
     <td align="center" width="170">
-      <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/OrCAD_Capture_Badge.png?raw=true" width="110" height="110" alt="OrCAD Certified 23.1"/>
-      </a>
-      <br/>
-      <strong>OrCAD Certified 23.1</strong>
-      <br/>
-      <sub>CertNexus</sub>
-    </td>
-    <td align="center" width="170">
       <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-emerging.png?raw=true" width="110" height="110" alt="Altium Emerging Engineer"/>
       <br/>
       <strong>Emerging Engineer</strong>
@@ -118,6 +109,15 @@
       <strong>Mixed-Signal Simulation</strong>
       <br/>
       <sub>Altium Accredited</sub>
+    </td>
+    <td align="center" width="170">
+      <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/OrCAD_Capture_Badge.png?raw=true" width="110" height="110" alt="OrCAD Certified 23.1"/>
+      </a>
+      <br/>
+      <strong>OrCAD Certified 23.1</strong>
+      <br/>
+      <sub>CertNexus</sub>
     </td>
   </tr>
 </table>
