@@ -49,21 +49,27 @@
 <table>
   <tr>
     <td align="center" width="170">
-      <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-emerging.png?raw=true" width="110" height="110" alt="Altium Emerging Engineer"/>
+      <a href="https://www.credly.com/badges/7b594939-c6e9-4466-ba42-cf0a031c2bb5" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-emerging.png?raw=true" width="110" height="110" alt="Altium Emerging Engineer"/>
+      </a>
       <br/>
       <strong>Emerging Engineer</strong>
       <br/>
       <sub>Altium Education</sub>
     </td>
     <td align="center" width="170">
-      <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-skilled.png?raw=true" width="110" height="110" alt="Altium Skilled Engineer"/>
+      <a href="https://www.credly.com/badges/c123c340-fff8-4993-9860-83d89547b033" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-skilled.png?raw=true" width="110" height="110" alt="Altium Skilled Engineer"/>
+      </a>
       <br/>
       <strong>Skilled Engineer</strong>
       <br/>
       <sub>Altium Education</sub>
     </td>
     <td align="center" width="170">
-      <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-advanced.png?raw=true" width="110" height="110" alt="Altium Advanced Engineer"/>
+      <a href="https://www.credly.com/badges/e616b525-899b-47c7-a776-21c2fe280ee0" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-advanced.png?raw=true" width="110" height="110" alt="Altium Advanced Engineer"/>
+      </a>
       <br/>
       <strong>Advanced Engineer</strong>
       <br/>
@@ -83,6 +89,15 @@
 
 <table>
   <tr>
+    <td align="center" width="170">
+      <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/OrCAD_Capture_Badge.png?raw=true" width="110" height="110" alt="OrCAD Certified 23.1"/>
+      </a>
+      <br/>
+      <strong>OrCAD Certified 23.1</strong>
+      <br/>
+      <sub>CertNexus</sub>
+    </td>
     <td align="center" width="170">
       <a href="https://www.credly.com/badges/85f9e057-e5fb-4786-89b2-9ff4a3ca0ea9" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/altium-pcb-essentials.png?raw=true" width="110" height="110" alt="Altium Accredited PCB Design Essentials"/>
@@ -110,15 +125,6 @@
       <br/>
       <sub>Altium Accredited</sub>
     </td>
-    <td align="center" width="170">
-      <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/badges/OrCAD_Capture_Badge.png?raw=true" width="110" height="110" alt="OrCAD Certified 23.1"/>
-      </a>
-      <br/>
-      <strong>OrCAD Certified 23.1</strong>
-      <br/>
-      <sub>CertNexus</sub>
-    </td>
   </tr>
 </table>
 
@@ -140,6 +146,7 @@
   <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
