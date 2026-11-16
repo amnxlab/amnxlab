@@ -139,23 +139,23 @@
 ### Programming Languages
 
 <p align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=r&theme=dark" alt="R" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=r&theme=dark" alt="R" title="R" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" />
 </p>
 
 ### Embedded &amp; Protocols
 
 <p align="center" style="margin: 20px 0;">
-  <img src="https://cdn.simpleicons.org/stmicroelectronics/0D1117/ffffff" width="70" height="70" alt="STM32" title="STM32"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/espressif/0D1117/ffffff" width="70" height="70" alt="ESP32" title="ESP32 / Espressif"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/stmicroelectronics/0D1117/ffffff" width="56" height="56" alt="STM32" title="STM32"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/espressif/0D1117/ffffff" width="56" height="56" alt="ESP32" title="ESP32 / Espressif"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/>
 </p>
@@ -171,28 +171,28 @@
 ### EDA &amp; PCB Design
 
 <p align="center" style="margin: 20px 0;">
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Altium.png?raw=true" width="80" height="80" alt="Altium Designer" title="Altium Designer"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="80" height="80" alt="KiCad" title="KiCad"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/OrCAD.png?raw=true" width="80" height="80" alt="OrCAD" title="OrCAD"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/autodesk/ffffff" width="70" height="70" alt="AutoCAD" title="AutoCAD"/>
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/altium-chip.png?raw=true" width="128" height="56" alt="Altium Designer" title="Altium Designer"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/kicad-chip.png?raw=true" width="121" height="56" alt="KiCad" title="KiCad"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/orcad-chip.png?raw=true" width="145" height="56" alt="OrCAD" title="OrCAD"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/autodesk/ffffff" width="56" height="56" alt="AutoCAD" title="AutoCAD"/>
 </p>
 
 ### RF, EM &amp; Antenna Simulation
 
 <p align="center" style="margin: 20px 0;">
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/ansys-seeklogo.png?raw=true" width="70" height="70" alt="Ansys HFSS" title="Ansys HFSS"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/CST.png?raw=true" width="70" height="70" alt="CST Studio" title="CST Studio Suite"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/ADS.png?raw=true" width="70" height="70" alt="Keysight ADS" title="Keysight ADS"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Antenna-Magus.png?raw=true" width="70" height="70" alt="Antenna Magus" title="Antenna Magus"/>
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/ansys-chip.png?raw=true" width="56" height="56" alt="Ansys HFSS" title="Ansys HFSS"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/CST.png?raw=true" width="56" height="56" alt="CST Studio" title="CST Studio Suite"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/chips/ads-chip.png?raw=true" width="56" height="56" alt="Keysight ADS" title="Keysight ADS"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Antenna-Magus.png?raw=true" width="56" height="56" alt="Antenna Magus" title="Antenna Magus"/>
 </p>
 
 ### DSP, SDR &amp; Instrumentation
 
 <p align="center" style="margin: 20px 0;">
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Gnu-Radio.png?raw=true" width="80" height="80" alt="GNU Radio" title="GNU Radio"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/MATLAB-Logo.png?raw=true" width="70" height="70" alt="MATLAB" title="MATLAB"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="70" height="70" alt="Octave" title="GNU Octave"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/national-instruments-labview-seeklogo.png?raw=true" width="70" height="70" alt="LabVIEW" title="LabVIEW"/>
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/Gnu-Radio.png?raw=true" width="242" height="56" alt="GNU Radio" title="GNU Radio"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/MATLAB-Logo.png?raw=true" width="56" height="56" alt="MATLAB" title="MATLAB"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="56" height="56" alt="Octave" title="GNU Octave"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assets/logos/tools/national-instruments-labview-seeklogo.png?raw=true" width="55" height="56" alt="LabVIEW" title="LabVIEW"/>
 </p>
 
 <p align="center">
